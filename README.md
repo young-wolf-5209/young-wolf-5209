@@ -20,10 +20,9 @@ I build reliable data pipelines and analytics systems that transform raw data in
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,r,scala,php,js,ts,nodejs,postgres,mysql,mongodb,redis,docker,kubernetes,gcp,aws,kafka,git,github,linux,fastapi,flask,pytorch,tensorflow,sklearn,ansible,terraform&perline=13">
+  <img src="https://skillicons.dev/icons?i=python,r,scala,go,cpp,java,rust,php,js,ts,nodejs,postgres,mysql,mongodb,redis,docker,kubernetes,azure,gcp,aws,kafka,git,github,linux,fastapi,flask,pytorch,tensorflow,sklearn,ansible,terraform,nginx&perline=16">
   
-  <br>
-  
+  <br> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI">
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" width="48" height="48" alt="Tableau">
