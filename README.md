@@ -12,7 +12,7 @@ I build reliable data pipelines and analytics systems that transform raw data in
 <a href="https://www.linkedin.com/in/vignol-lefakong-ba2917258/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/dilane-ts">
+<a href="https://github.com/young-wolf-5209">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
