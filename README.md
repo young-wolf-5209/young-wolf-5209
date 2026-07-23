@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Vignol Lefakong 👋
@@ -7,7 +6,7 @@
 
 📍 Paris, France  
 🎓 Engineering student at EFREI Paris  
-🔎 Looking for a 6-month Data Engineering internship starting January 2027
+🔎 Looking for a 5-month Data Engineering internship starting November 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignol%20Lefakong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignol-lefakong-ba2917258/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vignol.lefakong-tsomelou@efrei.net)
@@ -117,24 +116,6 @@ Containerized ETL pipeline designed to transform operational e-commerce datasets
 
 ---
 
-### 🌱 Decarbonization RAG Assistant
-
-RAG application developed during the KPMG Intelligenc.AI Hackathon to generate contextualized decarbonization strategies from ESG documents.
-
-**Key features:**
-
-- Document indexing and semantic search
-- Retrieval-Augmented Generation architecture
-- Financial and carbon indicators including CAPEX, OPEX, BAU and MACC
-- Interactive interface developed with Streamlit
-- Awarded **3rd place** at the KPMG France hackathon
-
-**Technologies:** Python, LangChain, FAISS, Hugging Face, Streamlit
-
-[View project](https://github.com/dilane-ts/REPLACE-WITH-RAG-REPOSITORY)
-
----
-
 ## 📚 Currently learning
 
 - Advanced Data Engineering architectures
@@ -158,7 +139,7 @@ I am open to discussions about:
 
 📧 **Email:** [vignol.lefakong-tsomelou@efrei.net](mailto:vignol.lefakong-tsomelou@efrei.net)  
 💼 **LinkedIn:** [Vignol Lefakong](https://www.linkedin.com/in/vignol-lefakong-ba2917258/)  
-💻 **GitHub:** [dilane-ts](https://github.com/dilane-ts)
+💻 **GitHub:** [young-wolf-5209](https://github.com/young-wolf-5209)
 
 ---
 
@@ -167,4 +148,3 @@ I am open to discussions about:
 ### From raw data to reliable information.
 
 </div>
-```
